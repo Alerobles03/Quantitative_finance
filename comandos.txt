@@ -1,0 +1,13 @@
+# == crear ambiente virtual===
+python 
+
+##windows
+# === Instalar librerias ===
+
+pip install -r requirements.txt
+
+# == GITHUB ===
+git status
+
+#Guardar cambios
+git add
