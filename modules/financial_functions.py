@@ -4,7 +4,7 @@ import scipy.stats as stats
 from .backend import market_prices
 
 
-def porfolop_volatility(
+def portfolio_volatility(
         
         df: pd.DataFrame, vector_w:np.array)->float:
    
